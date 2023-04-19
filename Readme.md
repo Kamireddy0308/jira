@@ -44,4 +44,4 @@ The tool could be customized to meet specific requirements of an organization, s
 Challenges
 In order to use the tool, the user needs to be able to access the client's Jira from their own company network, and vice versa.
 
-![JIRA DRAW.io](./jira.drawio.png.png)
+![JIRA DRAW.io](./jira.drawio.png)
